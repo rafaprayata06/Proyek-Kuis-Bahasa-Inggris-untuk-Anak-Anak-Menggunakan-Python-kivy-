@@ -1,0 +1,57 @@
+<ResultScreen>:
+    name: 'result'
+    BoxLayout:
+        orientation: 'vertical'
+        padding: dp(20)
+        spacing: dp(10)
+        canvas.before:
+            Color:
+                rgba: 1, 1, 1, 1  # Background putih
+            RoundedRectangle:
+                pos: self.pos
+                size: self.size
+                radius: [10]
+
+        Label:
+            text: 'Statistik Kuis'
+            font_size: '20sp'
+            color: 0, 0.5, 0, 1  # Hijau
+            size_hint_y: None
+            height: self.texture_size[1]
+
+        Label:
+            id: label_terjawab
+            text: 'Soal Dijawab: 0'
+            font_size: '16sp'
+            color: 0, 0, 0, 1
+
+        Label:
+            id: label_skor
+            text: 'Skor Terakhir: 0'
+            font_size: '16sp'
+            color: 0, 0, 0, 1
+
+        Label:
+            id: label_highscore
+            text: 'Skor Tertinggi: 0'
+            font_size: '16sp'
+            color: 0, 0, 0, 1
+
+        BoxLayout:
+            size_hint_y: None
+            height: dp(50)
+            spacing: dp(10)
+
+            Button:
+                text: 'kembali'
+                background_color: 1, 0.5, 0.5, 1  # Merah muda
+                color: 0, 0, 0, 1
+                on_release:
+                    root.manager.current = 'home'  # Ganti sesuai nama screen awal kamu
+
+            Button:
+                text: 'main lagi'
+                background_color: 0.6, 1, 0.6, 1  # Hijau muda
+                color: 0, 0, 0, 1
+                on_release:
+                    root.manager.current = 'quiz'  # Ganti sesuai nama screen kuis kamu

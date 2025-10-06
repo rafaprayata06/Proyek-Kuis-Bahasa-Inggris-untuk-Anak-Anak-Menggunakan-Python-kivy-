@@ -1,0 +1,502 @@
+[
+   {
+    "deskripsi": "Alat untuk memotong daging atau sayuran.",
+    "jawaban": "knife",
+    "pilihan": ["fork", "glass", "knife", "pan"]
+  },
+  {
+    "deskripsi": "Alat yang digunakan untuk mengaduk sup.",
+    "jawaban": "spoon",
+    "pilihan": ["plate", "bowl", "spoon", "mug"]
+  },
+  {
+    "deskripsi": "Tempat datar untuk menaruh makanan.",
+    "jawaban": "plate",
+    "pilihan": ["bottle", "napkin", "plate", "pan"]
+  },
+  {
+    "deskripsi": "Alat untuk menaruh makanan cair seperti sup.",
+    "jawaban": "bowl",
+    "pilihan": ["tray", "cup", "fork", "bowl"]
+  },
+  {
+    "deskripsi": "Wadah kecil untuk minum teh atau kopi.",
+    "jawaban": "cup",
+    "pilihan": ["knife", "plate", "cup", "pan"]
+  },
+  {
+    "deskripsi": "Tempat air minum berbentuk tinggi dan silinder.",
+    "jawaban": "glass",
+    "pilihan": ["fork", "glass", "plate", "bowl"]
+  },
+  {
+    "deskripsi": "Alat untuk mengambil makanan dari panci.",
+    "jawaban": "ladle",
+    "pilihan": ["spoon", "ladle", "plate", "mug"]
+  },
+  {
+    "deskripsi": "Alat pipih untuk membalik makanan di wajan.",
+    "jawaban": "spatula",
+    "pilihan": ["fork", "knife", "bowl", "spatula"]
+  },
+  {
+    "deskripsi": "Alat memasak berbentuk bulat, biasanya untuk merebus.",
+    "jawaban": "pot",
+    "pilihan": ["cup", "plate", "pot", "pan"]
+  },
+  {
+    "deskripsi": "Wadah datar dan lebar untuk menggoreng makanan.",
+    "jawaban": "pan",
+    "pilihan": ["fork", "glass", "napkin", "pan"]
+  },
+  {
+    "deskripsi": "Alat untuk menulis dengan tinta.",
+    "jawaban": "pen",
+    "pilihan": ["eraser", "book", "ruler", "pen"]
+  },
+  {
+    "deskripsi": "Alat tulis yang bisa dihapus.",
+    "jawaban": "pencil",
+    "pilihan": ["marker", "pencil", "pen", "board"]
+  },
+  {
+    "deskripsi": "Alat untuk menghapus tulisan pensil.",
+    "jawaban": "eraser",
+    "pilihan": ["ruler", "chalk", "eraser", "pencil"]
+  },
+  {
+    "deskripsi": "Alat panjang yang digunakan untuk mengukur.",
+    "jawaban": "ruler",
+    "pilihan": ["book", "ruler", "folder", "pen"]
+  },
+  {
+    "deskripsi": "Buku kosong yang digunakan untuk mencatat.",
+    "jawaban": "notebook",
+    "pilihan": ["chalk", "folder", "dictionary", "notebook"]
+  },
+  {
+    "deskripsi": "Tempat menyimpan alat tulis dan buku.",
+    "jawaban": "bag",
+    "pilihan": ["pen", "board", "bag", "pencil"]
+  },
+  {
+    "deskripsi": "Alat tulis warna-warni untuk menggambar atau menandai.",
+    "jawaban": "marker",
+    "pilihan": ["pen", "stapler", "eraser", "marker"]
+  },
+  {
+    "deskripsi": "Alat untuk menempelkan kertas dengan logam kecil.",
+    "jawaban": "stapler",
+    "pilihan": ["bag", "stapler", "notebook", "glue"]
+  },
+  {
+    "deskripsi": "Benda besar di depan kelas untuk menulis pakai kapur.",
+    "jawaban": "board",
+    "pilihan": ["book", "screen", "marker", "board"]
+  },
+  {
+    "deskripsi": "Buku yang berisi daftar kata dan artinya.",
+    "jawaban": "dictionary",
+    "pilihan": ["folder", "dictionary", "pen", "notebook"]
+  },
+  {
+    "deskripsi": "Makanan cepat saji yang berisi daging di antara dua roti bundar.",
+    "jawaban": "burger",
+    "pilihan": ["pizza", "cake", "sandwich", "burger"]
+  },
+  {
+    "deskripsi": "Makanan berbentuk segitiga dari adonan tipis dan topping di atasnya.",
+    "jawaban": "pizza",
+    "pilihan": ["pizza", "bread", "hotdog", "burger"]
+  },
+  {
+    "deskripsi": "Makanan ringan dari jagung yang biasa dimakan saat menonton film.",
+    "jawaban": "popcorn",
+    "pilihan": ["cereal", "chips", "nuts", "popcorn"]
+  },
+  {
+    "deskripsi": "Minuman panas yang terbuat dari daun kering.",
+    "jawaban": "tea",
+    "pilihan": ["milk", "tea", "coffee", "juice"]
+  },
+  {
+    "deskripsi": "Minuman berkafein yang berwarna gelap dan sering dikonsumsi pagi hari.",
+    "jawaban": "coffee",
+    "pilihan": ["milk", "tea", "soda", "coffee"]
+  },
+  {
+    "deskripsi": "Minuman dingin yang dibuat dari buah dan terkadang dicampur es.",
+    "jawaban": "juice",
+    "pilihan": ["juice", "milk", "water", "tea"]
+  },
+  {
+    "deskripsi": "Makanan manis yang sering dibuat untuk ulang tahun.",
+    "jawaban": "cake",
+    "pilihan": ["bread", "cake", "cookie", "candy"]
+  },
+  {
+    "deskripsi": "Roti panjang berisi daging dan saus, sering dijual di pinggir jalan.",
+    "jawaban": "hotdog",
+    "pilihan": ["taco", "hotdog", "burger", "pizza"]
+  },
+  {
+    "deskripsi": "Minuman bersoda yang sering disajikan dingin.",
+    "jawaban": "soda",
+    "pilihan": ["milk", "soda", "juice", "tea"]
+  },
+  {
+    "deskripsi": "Makanan ringan manis berbentuk kecil dan renyah.",
+    "jawaban": "cookie",
+    "pilihan": ["ice cream", "bread", "cookie", "cake"]
+  },
+  {
+    "deskripsi": "Perangkat yang digunakan untuk melakukan panggilan dan mengirim pesan.",
+    "jawaban": "phone",
+    "pilihan": ["television", "phone", "radio", "speaker"]
+  },
+  {
+    "deskripsi": "Alat yang digunakan untuk mengetik dan menjalankan program komputer.",
+    "jawaban": "laptop",
+    "pilihan": ["mouse", "keyboard", "laptop", "charger"]
+  },
+  {
+    "deskripsi": "Perangkat yang menampilkan gambar dan suara dari siaran.",
+    "jawaban": "television",
+    "pilihan": ["monitor", "television", "fan", "radio"]
+  },
+  {
+    "deskripsi": "Perangkat kecil untuk mendengarkan musik secara pribadi.",
+    "jawaban": "earphone",
+    "pilihan": ["earphone", "mouse", "speaker", "phone"]
+  },
+  {
+    "deskripsi": "Perangkat yang digunakan untuk menggerakkan kursor pada layar komputer.",
+    "jawaban": "mouse",
+    "pilihan": ["remote", "keyboard", "mouse", "printer"]
+  },
+  {
+    "deskripsi": "Perangkat yang digunakan untuk mencetak dokumen dari komputer.",
+    "jawaban": "printer",
+    "pilihan": ["monitor", "printer", "router", "scanner"]
+  },
+  {
+    "deskripsi": "Alat untuk menyalakan dan memutar suara dari komputer atau musik.",
+    "jawaban": "speaker",
+    "pilihan": ["headphone", "speaker", "phone", "laptop"]
+  },
+  {
+    "deskripsi": "Alat untuk mengisi daya perangkat elektronik.",
+    "jawaban": "charger",
+    "pilihan": ["plug", "fan", "battery", "charger"]
+  },
+  {
+    "deskripsi": "Perangkat untuk menyambungkan internet secara nirkabel.",
+    "jawaban": "router",
+    "pilihan": ["switch", "modem", "speaker", "router"]
+  },
+  {
+    "deskripsi": "Perangkat yang menampilkan tampilan visual dari komputer.",
+    "jawaban": "monitor",
+    "pilihan": ["lamp", "scanner", "monitor", "tv"]
+  },
+  {
+    "deskripsi": "Perabot besar yang biasa digunakan untuk duduk santai di ruang tamu.",
+    "jawaban": "sofa",
+    "pilihan": ["bed", "table", "sofa", "stool"]
+  },
+  {
+    "deskripsi": "Meja kecil yang biasanya diletakkan di samping tempat tidur.",
+    "jawaban": "nightstand",
+    "pilihan": ["lamp", "desk", "cabinet", "nightstand"]
+  },
+  {
+    "deskripsi": "Perabot dengan kasur, digunakan untuk tidur.",
+    "jawaban": "bed",
+    "pilihan": ["bench", "rug", "sofa", "bed"]
+  },
+  {
+    "deskripsi": "Alat untuk menerangi ruangan di malam hari.",
+    "jawaban": "lamp",
+    "pilihan": ["tv", "mirror", "lamp", "fan"]
+  },
+  {
+    "deskripsi": "Perabot untuk menyimpan pakaian, biasanya ada pintu dan gantungan.",
+    "jawaban": "wardrobe",
+    "pilihan": ["cabinet", "closet", "wardrobe", "drawer"]
+  },
+  {
+    "deskripsi": "Kain tebal yang diletakkan di lantai sebagai alas atau hiasan.",
+    "jawaban": "carpet",
+    "pilihan": ["curtain", "mat", "blanket", "carpet"]
+  },
+  {
+    "deskripsi": "Tirai yang digunakan untuk menutup jendela.",
+    "jawaban": "curtain",
+    "pilihan": ["bedcover", "curtain", "rug", "carpet"]
+  },
+  {
+    "deskripsi": "Cermin besar biasanya dipasang di kamar mandi atau kamar tidur.",
+    "jawaban": "mirror",
+    "pilihan": ["tv", "glass", "mirror", "lamp"]
+  },
+  {
+    "deskripsi": "Meja yang digunakan untuk belajar atau bekerja.",
+    "jawaban": "desk",
+    "pilihan": ["wardrobe", "nightstand", "table", "desk"]
+  },
+  {
+    "deskripsi": "Kursi kecil tanpa sandaran yang biasanya digunakan di dapur.",
+    "jawaban": "stool",
+    "pilihan": ["bench", "chair", "sofa", "stool"]
+  },
+  {
+    "deskripsi": "Pakaian bagian atas dengan lengan pendek yang biasa dipakai sehari-hari.",
+    "jawaban": "t-shirt",
+    "pilihan": ["jacket", "coat", "shirt", "t-shirt"]
+  },
+  {
+    "deskripsi": "Pakaian panjang untuk bagian bawah yang menutupi kaki.",
+    "jawaban": "pants",
+    "pilihan": ["pants", "dress", "shorts", "skirt"]
+  },
+  {
+    "deskripsi": "Pakaian luar yang tebal, biasanya dipakai saat cuaca dingin.",
+    "jawaban": "coat",
+    "pilihan": ["shirt", "coat", "sweater", "jacket"]
+  },
+  {
+    "deskripsi": "Pakaian satu bagian yang biasanya dipakai wanita.",
+    "jawaban": "dress",
+    "pilihan": ["t-shirt", "skirt", "pants", "dress"]
+  },
+  {
+    "deskripsi": "Penutup kepala yang biasa dipakai di luar ruangan.",
+    "jawaban": "hat",
+    "pilihan": ["scarf", "helmet", "hood", "hat"]
+  },
+  {
+    "deskripsi": "Kain panjang yang dililitkan di leher untuk menghangatkan tubuh.",
+    "jawaban": "scarf",
+    "pilihan": ["belt", "hoodie", "scarf", "tie"]
+  },
+  {
+    "deskripsi": "Sepasang alas kaki tertutup yang digunakan sehari-hari.",
+    "jawaban": "shoes",
+    "pilihan": ["socks", "sandals", "boots", "shoes"]
+  },
+  {
+    "deskripsi": "Sepatu tinggi yang biasanya digunakan saat musim dingin atau hujan.",
+    "jawaban": "boots",
+    "pilihan": ["slippers", "heels", "boots", "shoes"]
+  },
+  {
+    "deskripsi": "Pakaian luar dengan ritsleting atau kancing yang ringan.",
+    "jawaban": "jacket",
+    "pilihan": ["vest", "sweater", "jacket", "coat"]
+  },
+  {
+    "deskripsi": "Kain panjang yang melingkari pinggang, dipakai wanita.",
+    "jawaban": "skirt",
+    "pilihan": ["dress", "skirt", "shorts", "pants"]
+  },
+  {
+    "deskripsi": "Hewan peliharaan yang dikenal setia dan suka menggonggong.",
+    "jawaban": "dog",
+    "pilihan": ["goat", "cat", "rabbit", "dog"]
+  },
+   {
+    "deskripsi": "Hewan berbulu halus yang sering mengeong.",
+    "jawaban": "cat",
+    "pilihan": ["mouse", "cat", "hamster", "dog"]
+  },
+  {
+    "deskripsi": "Hewan berkaki dua yang bisa terbang dan memiliki paruh.",
+    "jawaban": "bird",
+    "pilihan": ["chicken", "bat", "bird", "duck"]
+  },
+  {
+    "deskripsi": "Hewan yang hidup di air dan bernapas dengan insang.",
+    "jawaban": "fish",
+    "pilihan": ["seal", "fish", "crab", "frog"]
+  },
+  {
+    "deskripsi": "Hewan kecil bertelinga panjang yang suka wortel.",
+    "jawaban": "rabbit",
+    "pilihan": ["mouse", "sheep", "rabbit", "cat"]
+  },
+  {
+    "deskripsi": "Hewan besar berbelalai yang hidup di hutan atau sabana.",
+    "jawaban": "elephant",
+    "pilihan": ["camel", "horse", "elephant", "rhino"]
+  },
+  {
+    "deskripsi": "Hewan yang suka menggali tanah dan berbadan panjang kecil.",
+    "jawaban": "worm",
+    "pilihan": ["worm", "ant", "rat", "snake"]
+  },
+  {
+    "deskripsi": "Hewan melata tak berkaki yang bisa berbisa.",
+    "jawaban": "snake",
+    "pilihan": ["lizard", "frog", "worm", "snake"]
+  },
+  {
+    "deskripsi": "Hewan berkaki empat yang biasa digunakan untuk menunggang.",
+    "jawaban": "horse",
+    "pilihan": ["goat", "horse", "dog", "cow"]
+  },
+  {
+    "deskripsi": "Hewan bertanduk yang menghasilkan susu.",
+    "jawaban": "cow",
+    "pilihan": ["sheep", "goat", "cow", "buffalo"]
+  },
+  {
+    "deskripsi": "Kendaraan beroda empat yang umum digunakan di jalan raya.",
+    "jawaban": "car",
+    "pilihan": ["motorcycle", "truck", "car", "bus"]
+  },
+  {
+    "deskripsi": "Kendaraan dua roda yang menggunakan pedal.",
+    "jawaban": "bicycle",
+    "pilihan": ["scooter", "bicycle", "car", "motorcycle"]
+  },
+  {
+    "deskripsi": "Kendaraan umum besar yang bisa mengangkut banyak penumpang.",
+    "jawaban": "bus",
+    "pilihan": ["truck", "bus", "van", "car"]
+  },
+  {
+    "deskripsi": "Kendaraan dua roda yang menggunakan mesin.",
+    "jawaban": "motorcycle",
+    "pilihan": ["car", "motorcycle", "bicycle", "boat"]
+  },
+  {
+    "deskripsi": "Kendaraan besar untuk mengangkut barang.",
+    "jawaban": "truck",
+    "pilihan": ["car", "bus", "scooter", "truck"]
+  },
+  {
+    "deskripsi": "Kendaraan yang berjalan di rel dan bisa sangat panjang.",
+    "jawaban": "train",
+    "pilihan": ["van", "train", "bus", "tram"]
+  },
+  {
+    "deskripsi": "Kendaraan yang terbang di udara dan membawa penumpang.",
+    "jawaban": "airplane",
+    "pilihan": ["jet", "airplane", "drone", "helicopter"]
+  },
+  {
+    "deskripsi": "Kendaraan air yang besar dan digunakan untuk perjalanan laut.",
+    "jawaban": "ship",
+    "pilihan": ["raft", "ship", "boat", "submarine"]
+  },
+  {
+    "deskripsi": "Kendaraan terbang kecil yang berputar dengan baling-baling di atas.",
+    "jawaban": "helicopter",
+    "pilihan": ["blimp", "airplane", "helicopter", "jet"]
+  },
+  {
+    "deskripsi": "Kendaraan kecil beroda dua yang sering digunakan anak-anak.",
+    "jawaban": "scooter",
+    "pilihan": ["skateboard", "bicycle", "rollerblade", "scooter"]
+  },
+  {
+    "deskripsi": "Orang yang mengajar murid di sekolah.",
+    "jawaban": "teacher",
+    "pilihan": ["teacher", "engineer", "chef", "doctor"]
+  },
+  {
+    "deskripsi": "Orang yang merawat pasien di rumah sakit.",
+    "jawaban": "doctor",
+    "pilihan": ["teacher", "nurse", "driver", "doctor"]
+  },
+  {
+    "deskripsi": "Orang yang memasak makanan di restoran.",
+    "jawaban": "chef",
+    "pilihan": ["waiter", "doctor", "baker", "chef"]
+  },
+  {
+    "deskripsi": "Orang yang mengendarai mobil umum atau pribadi.",
+    "jawaban": "driver",
+    "pilihan": ["pilot", "guard", "driver", "mechanic"]
+  },
+  {
+    "deskripsi": "Orang yang memperbaiki mesin atau kendaraan.",
+    "jawaban": "mechanic",
+    "pilihan": ["mechanic", "driver", "builder", "engineer"]
+  },
+  {
+    "deskripsi": "Orang yang merancang dan membangun gedung atau jembatan.",
+    "jawaban": "engineer",
+    "pilihan": ["engineer", "architect", "builder", "scientist"]
+  },
+  {
+    "deskripsi": "Orang yang melayani pelanggan di restoran.",
+    "jawaban": "waiter",
+    "pilihan": ["waiter", "teacher", "clerk", "chef"]
+  },
+  {
+    "deskripsi": "Orang yang menjaga keamanan di tempat umum.",
+    "jawaban": "security",
+    "pilihan": ["firefighter", "guard", "security", "police"]
+  },
+  {
+    "deskripsi": "Orang yang memadamkan api dan menyelamatkan orang dari kebakaran.",
+    "jawaban": "firefighter",
+    "pilihan": ["police", "nurse", "security", "firefighter"]
+  },
+  {
+    "deskripsi": "Orang yang mengendarai pesawat terbang.",
+    "jawaban": "pilot",
+    "pilihan": ["sailor", "pilot", "driver", "mechanic"]
+  },
+  {
+    "deskripsi": "Buah berwarna merah atau hijau, sering dimakan langsung atau dibuat jus.",
+    "jawaban": "apple",
+    "pilihan": ["grape", "banana", "cherry", "apple"]
+  },
+  {
+    "deskripsi": "Buah panjang berwarna kuning yang dikupas sebelum dimakan.",
+    "jawaban": "banana",
+    "pilihan": ["banana", "mango", "pineapple", "pear"]
+  },
+  {
+    "deskripsi": "Buah tropis dengan kulit berduri dan daging kuning manis.",
+    "jawaban": "pineapple",
+    "pilihan": ["orange", "melon", "banana", "pineapple"]
+  },
+  {
+    "deskripsi": "Buah bulat kecil yang biasanya berwarna ungu atau hijau dan tumbuh bergerombol.",
+    "jawaban": "grape",
+    "pilihan": ["grape", "apple", "blueberry", "plum"]
+  },
+  {
+    "deskripsi": "Buah jeruk manis yang sering diminum sebagai jus.",
+    "jawaban": "orange",
+    "pilihan": ["orange", "grapefruit", "lemon", "tangerine"]
+  },
+  {
+    "deskripsi": "Buah kecil berwarna merah dengan tangkai dan sering dijadikan hiasan kue.",
+    "jawaban": "cherry",
+    "pilihan": ["cherry", "grape", "blueberry", "strawberry"]
+  },
+  {
+    "deskripsi": "Buah hijau yang rasanya manis dan dagingnya renyah, mirip apel.",
+    "jawaban": "pear",
+    "pilihan": ["plum", "kiwi", "apple", "pear"]
+  },
+  {
+    "deskripsi": "Buah berwarna kuning-oranye dengan biji besar dan rasa manis lembut.",
+    "jawaban": "mango",
+    "pilihan": ["papaya", "banana", "mango", "peach"]
+  },
+  {
+    "deskripsi": "Buah kecil berwarna biru gelap yang sering digunakan untuk topping yogurt.",
+    "jawaban": "blueberry",
+    "pilihan": ["blueberry", "plum", "cherry", "grape"]
+  },
+  {
+    "deskripsi": "Buah merah dengan biji di luar, berbentuk hati dan berbau harum.",
+    "jawaban": "strawberry",
+    "pilihan": ["raspberry", "strawberry", "apple", "cherry"]
+  }
+]
